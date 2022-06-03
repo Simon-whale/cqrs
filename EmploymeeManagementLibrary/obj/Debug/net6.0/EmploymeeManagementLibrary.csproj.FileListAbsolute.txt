@@ -1,0 +1,12 @@
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/obj/Debug/net6.0/EmploymeeManagementLibrary.csproj.AssemblyReference.cache
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/obj/Debug/net6.0/EmploymeeManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/obj/Debug/net6.0/EmploymeeManagementLibrary.AssemblyInfoInputs.cache
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/obj/Debug/net6.0/EmploymeeManagementLibrary.AssemblyInfo.cs
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/obj/Debug/net6.0/EmploymeeManagementLibrary.csproj.CoreCompileInputs.cache
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/bin/Debug/net6.0/EmploymeeManagementLibrary.deps.json
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/bin/Debug/net6.0/EmploymeeManagementLibrary.dll
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/bin/Debug/net6.0/ref/EmploymeeManagementLibrary.dll
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/bin/Debug/net6.0/EmploymeeManagementLibrary.pdb
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/obj/Debug/net6.0/EmploymeeManagementLibrary.dll
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/obj/Debug/net6.0/ref/EmploymeeManagementLibrary.dll
+/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/obj/Debug/net6.0/EmploymeeManagementLibrary.pdb

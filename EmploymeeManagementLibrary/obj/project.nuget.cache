@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Uq+WU3DzTnV0p3GNs6VMrJp7K9P06EjvIDqSW2X2w4PIucwySVvcY+I1dslhyTvVVoz68hQn6WL9/ZKo1hgBQ==",
+  "success": true,
+  "projectFilePath": "/Users/simon.whale/RiderProjects/CQRS_MediatR/EmploymeeManagementLibrary/EmploymeeManagementLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/simon.whale/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/simon.whale/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
